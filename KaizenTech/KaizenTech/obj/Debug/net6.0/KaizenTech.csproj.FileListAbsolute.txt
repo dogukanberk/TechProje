@@ -1,0 +1,15 @@
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\bin\Debug\net6.0\KaizenTech.exe
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\bin\Debug\net6.0\KaizenTech.deps.json
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\bin\Debug\net6.0\KaizenTech.runtimeconfig.json
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\bin\Debug\net6.0\KaizenTech.dll
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\bin\Debug\net6.0\KaizenTech.pdb
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.AssemblyInfoInputs.cache
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.AssemblyInfo.cs
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.dll
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\refint\KaizenTech.dll
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.pdb
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\KaizenTech.genruntimeconfig.cache
+C:\Users\doguk\source\repos\KaizenTech\KaizenTech\obj\Debug\net6.0\ref\KaizenTech.dll
